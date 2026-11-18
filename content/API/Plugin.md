@@ -1,4 +1,4 @@
-Primary class of the mod.
+The primary class of the mod.
 # Constants
 ## GUID
 ```cs
