@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: hexahedron1.github.io/liboracle
+  baseUrl: hexahedron1.github.io/liboracledocs
   ignorePatterns:
     - private
     - templates
