@@ -1,7 +1,7 @@
 # What is an oracle?
 "Oracle" is the name used for iterator puppets in code. It is not to be confused with an iterator as a whole, which usually encompasses an entire region, while an oracle is only the part that you directly interact with in its chamber.
 This wiki also uses the term "oracle" to refer to objects representing the puppet in code, i.e. objects extending the `Oracle` class.
-"Broken" is also used in this wiki to refer to oracles which have collapsed, like Looks to the Moon (post-Spearmaster) and Five Pebbles (for Saint)
+"Broken" is also used in this wiki to refer to oracles whose chamber has been breached in some way or are not able to fully function, like Looks to the Moon (post-Spearmaster) and Five Pebbles (for Rivulet and Saint)
 # What is this library?
 LibOracle is a code dependency that provides a higher level of abstraction to the multitude of convoluted classes involved in the creation of oracles, thus greatly simplifying the process.
 The core philosophy of this library is to provide a solid foundation, on top of which you can build your creation, rather than having to untangle a mountain of spaghetti every time you want to do something.
