@@ -74,3 +74,8 @@ Contains states likely to be commonly used:
 The ExtEnum used for storing the current movement behavior.
 By default contains:
 - Center
+- LookAtPearls
+- Meditate
+- KeepDistance
+- Investigate
+- InspectObject
