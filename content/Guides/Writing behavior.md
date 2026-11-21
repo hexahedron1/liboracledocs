@@ -46,6 +46,7 @@ public override void StateSwitch(OracleState.ID newState) {
 To move the puppet, simply set the [[OracleWrapper#TargetPos|TargetPos]] property, movement logic is taken off automatically. To change the orientation, set the [[OracleWrapper#Angle|Angle]] property.
 If you wish to implement your own movement logic, override the [[OracleWrapper#Move]] method.
 Use [[OracleWrapper#MoveAroundTarget]] to easily position the puppet around a target position.
+You can use the internal `pathProgression` field to determine if the puppet finished moving (1 if the path is completed).
 # Event response
 You can override `IngameEvent` to let the oracle respond to things happening in the room:
 ```cs
