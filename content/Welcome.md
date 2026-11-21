@@ -12,3 +12,5 @@ For the starting guide, see [[Your first oracle]].
 If you have experience in writing oracles already and want to see the changes this library introduces, see [[What's different]].
 
 For the list of planned/WIP features, see [[Planned features]].
+
+Latest library version: v1.0.1
