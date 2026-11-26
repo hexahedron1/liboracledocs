@@ -1,3 +1,7 @@
+---
+tags:
+  - api
+---
 A wrapper for ProjectedCircle for easier usage
 **Base classes**:
 - UpdatableAndDeletable
