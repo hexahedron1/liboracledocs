@@ -13,4 +13,4 @@ If you have experience in writing oracles already and want to see the changes th
 
 For the list of planned/WIP features, see [[Planned features]].
 
-Latest library version: v1.0.1
+Latest library version: v1.1.0
